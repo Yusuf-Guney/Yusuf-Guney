@@ -1,7 +1,5 @@
 ### Hi there 👋, Yusuf Güney
 #### Bilgisayar Mühendisliği
-![Bilgisayar Mühendisliği](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Merhaba ben Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim
 
 Skills: JS / HTML / CSS / JAVA / C / PHP / SQL
